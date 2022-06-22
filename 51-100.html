@@ -1,33 +1,49 @@
 <html>
-    <style>
-     .container{
-         column-count: 2;
-         column-gap: 35px;  
-     }
-	 .mjx-math{
-            display: none;
-        }
-    
-     .A4{
-         width: 300mm;
-         height: 296mm;
-         padding: 20px;
-     }
-     .hide {
-         display:yes;
-     }
-     hr{
-         display: none;
-     }
-     td{
-        text-align: justify;
-    }
-	
-    </style>
 <head>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-</head>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
+    <script type="text/x-mathjax-config">
+       MathJax.Hub.Config({
+          tex2jax: { inlineMath: [["$","$"],["\\(","\\)"]] },
+          "HTML-CSS": {
+            linebreaks: { automatic: true, width: "container" }          
+          }              
+       });
+    </script>
+       
+  <style>
+    .container{
+        column-count: 2;
+        column-gap: 35px;  
+    }
+   .mjx-math{
+      display: none;
+   }
+ 
+   .hide {
+        display:YES;
+    }
+    hr{
+        display: none;
+    }
+    td{
+       text-align: justify;
+   }
+   .syllabi{
+      text-align: center;
+      text-decoration:wavy;
+      display: none;
+   }
+   .question-text{
+      display: yes;
+   }
+   .syllabi{
+     text-align: center;
+     text-decoration:wavy;
+  }
+   
+  
+   </style>
+ </head>
 <body>
   <div class=A4>
     <div class="container">
