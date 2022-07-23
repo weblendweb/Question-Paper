@@ -1,0 +1,575 @@
+<html>
+<head>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
+    <script type="text/x-mathjax-config">
+       MathJax.Hub.Config({
+          tex2jax: { inlineMath: [["$","$"],["\\(","\\)"]] },
+          "HTML-CSS": {
+            linebreaks: { automatic: true, width: "container" }          
+          }              
+       });
+    </script>
+       
+  <style>
+    .container{
+        column-count: 2;
+        column-gap: 35px;  
+    }
+   .mjx-math{
+      display: none;
+   }
+ 
+   .hide {
+        display:YES;
+    }
+    hr{
+        display: none;
+    }
+    td{
+       text-align: justify;
+   }
+   .syllabi{
+      text-align: center;
+      text-decoration:wavy;
+      display: none;
+   }
+   .question-text{
+      display: yes;
+   }
+   .syllabi{
+     text-align: center;
+     text-decoration:wavy;
+  }
+   
+  
+   </style>
+ </head>
+<body>
+  <div class=A4>
+    <div class="container">
+       <div width="100%">
+       <h3 align="center">CHEMISTRY</h3>
+       <h4 align="center">SECTION A</h4>
+       <p class="syllabi"><b>Syllabi: </b>CH101: Some Basic Concept of Chemistry</p>
+       </div>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>1.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246MjUwODMz"><p>Assertion:&nbsp;When 4 moles of H<sub>2</sub> reacts with 2 moles of O<sub>2</sub>, then 4 moles of water are formed.</p>
+
+                        <p>Reason:&nbsp;O<sub>2</sub> will act as a limiting reagent.</p>
+                        
+                        <p>1. Both Assertion &amp; Reason are true and the reason is the correct explanation of the assertion.</p>
+                        
+                        <p>2. Both Assertion &amp; Reason are true but the reason is not the correct explanation of the assertion.</p>
+                        
+                        <p>3. Assertion is a true statement but Reason is false.</p>
+                        
+                        <p>4. Assertion and Reason are false statements.</p>
+                        </span></div>
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->3
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+                      
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>2.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246MjI4MDM3"><p><strong>Assertion:</strong>&nbsp;The empirical mass of ethene is half of its molecular mass.</p>
+
+                        <p><strong>Reason:</strong> The empirical formula represents the simplest whole-number ratio of the various atoms present in a compound.</p>
+                        
+                        <p>1. Both the assertion and the reason are true and the reason is the correct explanation of the assertion.<br>
+                        2. Both the assertion and the reason are true and the reason is not the correct explanation of the assertion.<br>
+                        3. The assertion is true but the reason is false.<br>
+                        4. The assertion is false but the reason is true.</p>
+                        </span></div>
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->1
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>3.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246MjI4MDM4"><p>Assertion(A):<strong>&nbsp;</strong>One atomic mass unit is defined as one-twelfth of the mass of one carbon-12 atom.</p>
+
+                        <p>Reason(R):<strong>&nbsp;</strong>The carbon-12 isotope is the most abundant isotope of carbon and has been chosen as the standard.</p>
+                        
+                        <p>1. Both the assertion and the reason are true and the reason is the correct explanation of the assertion.<br>
+                        2. Both the assertion and the reason are true and the reason is not the correct explanation of the assertion.<br>
+                        3. The assertion is true but the reason is false.<br>
+                        4. The assertion is false but the reason is true.</p>
+                        </span></div>
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->2
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>4.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246MjI4MDM5"><p>Assertion(A):<strong>&nbsp;</strong>The significant figure for 0.200 is 3, whereas the significant figure for 200 is 1.</p>
+
+                        <p>Reason(R): Zero at the end or right of a number is significant, provided it is not on the right side of the decimal point.</p>
+                        
+                        <p>1. Both the assertion and the reason are true and the reason is the correct explanation of the assertion.<br>
+                        2. Both the assertion and the reason are true and the reason is not the correct explanation of the assertion.<br>
+                        3. The assertion is true but the reason is false.<br>
+                        4. The Assertion is false but the reason is true.</p>
+                        
+                        <p></p>
+                        </span></div>
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->3
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>5.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246MjI4MDQw"><p>Assertion: The combustion of 16 g of methane gives 18 g of water.</p>
+
+                        <p>Reason:&nbsp;In the combustion of methane, water is one of the products.</p>
+                        
+                        <p>1. Both the assertion and the reason are true and the reason is the correct explanation of the assertion.&nbsp;<br>
+                        2. Both the assertion and the reason are true and the reason is not the correct explanation of the assertion.<br>
+                        3. The assertion is true but the reason is false.<br>
+                        4. The assertion is false but the reason is true.</p>
+                        </span></div>
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->4
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>6.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246MjUwODI2"><p>Assertion:&nbsp;1 a.m.u =<span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-54-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>1</mn><mo>.66</mo><mo>&amp;#xD7;</mo><msup><mn>10</mn><mrow><mo>&amp;#x2212;</mo><mn>24</mn></mrow></msup><mo>&amp;#xA0;</mo><mi>gram</mi><mo>.</mo></math>" role="presentation" style="font-size: 119%; position: relative;"><span id="MJXc-Node-497" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-498" class="mjx-mrow"><span id="MJXc-Node-499" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">1</span></span><span id="MJXc-Node-500" class="mjx-mo MJXc-space3"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">.66</span></span><span id="MJXc-Node-501" class="mjx-mo MJXc-space3"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.213em; padding-bottom: 0.318em;">×</span></span><span id="MJXc-Node-502" class="mjx-msup"><span class="mjx-base"><span id="MJXc-Node-503" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">10</span></span></span><span class="mjx-sup" style="font-size: 70.7%; vertical-align: 0.591em; padding-left: 0px; padding-right: 0.071em;"><span id="MJXc-Node-504" class="mjx-mrow" style=""><span id="MJXc-Node-505" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.318em; padding-bottom: 0.423em;">−</span></span><span id="MJXc-Node-506" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">24</span></span></span></span></span><span id="MJXc-Node-507" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.313em; padding-bottom: 0.318em;">&nbsp;</span></span><span id="MJXc-Node-508" class="mjx-mi MJXc-space1"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.528em;">gram</span></span><span id="MJXc-Node-509" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.155em; padding-bottom: 0.318em;">.</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>.66</mo><mo>×</mo><msup><mn>10</mn><mrow><mo>−</mo><mn>24</mn></mrow></msup><mo>&nbsp;</mo><mi>gram</mi><mo>.</mo></math></span></span><script type="math/mml" id="MathJax-Element-54"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>.66</mo><mo>×</mo><msup><mn>10</mn><mrow><mo>−</mo><mn>24</mn></mrow></msup><mo> </mo><mi>gram</mi><mo>.</mo></math></script></p>
+
+<p>Reason: The actual mass of one atom of C-12 is equal to&nbsp;<span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-55-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>1</mn><mo>.</mo><mn>99</mn><mo>&amp;#xD7;</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>23</mn></mrow></msup><mo>&amp;#xA0;</mo><mi>g</mi><mo>.</mo></math>" role="presentation" style="font-size: 119%; position: relative;"><span id="MJXc-Node-510" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-511" class="mjx-mrow"><span id="MJXc-Node-512" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">1</span></span><span id="MJXc-Node-513" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.155em; padding-bottom: 0.318em;">.</span></span><span id="MJXc-Node-514" class="mjx-mn MJXc-space1"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">99</span></span><span id="MJXc-Node-515" class="mjx-mo MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.213em; padding-bottom: 0.318em;">×</span></span><span id="MJXc-Node-516" class="mjx-msup MJXc-space2"><span class="mjx-base"><span id="MJXc-Node-517" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">10</span></span></span><span class="mjx-sup" style="font-size: 70.7%; vertical-align: 0.591em; padding-left: 0px; padding-right: 0.071em;"><span id="MJXc-Node-518" class="mjx-mrow" style=""><span id="MJXc-Node-519" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.318em; padding-bottom: 0.423em;">−</span></span><span id="MJXc-Node-520" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">23</span></span></span></span></span><span id="MJXc-Node-521" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.313em; padding-bottom: 0.318em;">&nbsp;</span></span><span id="MJXc-Node-522" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.213em; padding-bottom: 0.475em; padding-right: 0.003em;">g</span></span><span id="MJXc-Node-523" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.155em; padding-bottom: 0.318em;">.</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>.</mo><mn>99</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>23</mn></mrow></msup><mo>&nbsp;</mo><mi>g</mi><mo>.</mo></math></span></span><script type="math/mml" id="MathJax-Element-55"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>.</mo><mn>99</mn><mo>×</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>23</mn></mrow></msup><mo> </mo><mi>g</mi><mo>.</mo></math></script></p>
+
+<p>1. Both the assertion and the reason are true and the reason is the correct explanation of the assertion.<br>
+2. Both the assertion and the reason are true and the reason is not the correct explanation of the assertion.<br>
+3. The assertion is true but the reason is false.<br>
+4. The assertion is false but the reason is true.</p>
+</span></div>
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->1
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>7.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246MjUwODI4"><p><strong>Assertion:</strong> The number of molecules in 2 moles of NH<sub>3</sub> is equal to the number of molecules in 4 moles of CH<sub>4</sub>.</p>
+
+                        <p><strong>Reason:&nbsp;</strong>Both are chemically similar species.</p>
+                        
+                        <p>1. Both the assertion and the reason are true and the reason is the correct explanation of the assertion.<br>
+                        2. Both the assertion and the reason are true and the reason is not the correct explanation of the assertion.<br>
+                        3. The assertion is true but the reason is false.<br>
+                        4.&nbsp;Both Assertion and Reason are false statements.</p>
+                        </span></div>
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->4
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>8.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246MjI4MDEx"><p>The incorrect statement among the following is-</p>
+
+                        <p>1. A molecule of a compound has atoms of different elements.</p>
+                        
+                        <p>2. A compound can not be separated into its constituent elements by the physical method of separation.</p>
+                        
+                        <p>3. A compound retains the physical properties of its constituent elements.</p>
+                        
+                        <p>4. The ratio of atoms of different elements in a compound is fixed.</p>
+                        </span></div>
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->3
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>9.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246MjI4MDEy"><p>Which of the following statements is correct about the reaction is given below?</p>
+                        <p><span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-132-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math class=&quot;wrs_chemistry&quot; xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>4</mn><mi>Fe</mi><mo>(</mo><mi mathvariant=&quot;normal&quot;>s</mi><mo>)</mo><mo>+</mo><mn>3</mn><msub><mi mathvariant=&quot;normal&quot;>O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=&quot;normal&quot;>g</mi><mo>)</mo><mo>&amp;#x2192;</mo><mn>2</mn><msub><mi>Fe</mi><mn>2</mn></msub><msub><mi mathvariant=&quot;normal&quot;>O</mi><mn>3</mn></msub><mo>(</mo><mi mathvariant=&quot;normal&quot;>g</mi><mo>)</mo></math>" role="presentation" style="font-size: 119%; position: relative;"><span id="MJXc-Node-1531" class="mjx-math wrs_chemistry" aria-hidden="true"><span id="MJXc-Node-1532" class="mjx-mrow"><span id="MJXc-Node-1533" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">4</span></span><span id="MJXc-Node-1534" class="mjx-mi MJXc-space1"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">Fe</span></span><span id="MJXc-Node-1535" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1536" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.37em;">s</span></span><span id="MJXc-Node-1537" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span><span id="MJXc-Node-1538" class="mjx-mo MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.318em; padding-bottom: 0.423em;">+</span></span><span id="MJXc-Node-1539" class="mjx-mn MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">3</span></span><span id="MJXc-Node-1540" class="mjx-msub"><span class="mjx-base"><span id="MJXc-Node-1541" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">O</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1542" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span></span></span><span id="MJXc-Node-1543" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1544" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.528em;">g</span></span><span id="MJXc-Node-1545" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span><span id="MJXc-Node-1546" class="mjx-mo MJXc-space3"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.213em; padding-bottom: 0.37em;">→</span></span><span id="MJXc-Node-1547" class="mjx-mn MJXc-space3"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span><span id="MJXc-Node-1548" class="mjx-msub MJXc-space1"><span class="mjx-base"><span id="MJXc-Node-1549" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">Fe</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1550" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span></span></span><span id="MJXc-Node-1551" class="mjx-msub MJXc-space1"><span class="mjx-base"><span id="MJXc-Node-1552" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">O</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1553" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">3</span></span></span></span><span id="MJXc-Node-1554" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1555" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.528em;">g</span></span><span id="MJXc-Node-1556" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math class="wrs_chemistry" xmlns="http://www.w3.org/1998/Math/MathML"><mn>4</mn><mi>Fe</mi><mo>(</mo><mi mathvariant="normal">s</mi><mo>)</mo><mo>+</mo><mn>3</mn><msub><mi mathvariant="normal">O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>→</mo><mn>2</mn><msub><mi>Fe</mi><mn>2</mn></msub><msub><mi mathvariant="normal">O</mi><mn>3</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo></math></span></span><script type="math/mml" id="MathJax-Element-132"><math xmlns="http://www.w3.org/1998/Math/MathML" class="wrs_chemistry"><mn>4</mn><mi>Fe</mi><mo>(</mo><mi mathvariant="normal">s</mi><mo>)</mo><mo>+</mo><mn>3</mn><msub><mi mathvariant="normal">O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>→</mo><mn>2</mn><msub><mi>Fe</mi><mn>2</mn></msub><msub><mi mathvariant="normal">O</mi><mn>3</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo></math></script></p>
+                        <p>1. Total mass of iron and oxygen in reactants = total mass of iron and oxygen in product therefore it follows law of conservation of mass</p>
+                        <p>2. Total mass of reactants = total mass of product, therefore, law of multiple proportions is followed</p>
+                        <p>3. Amount of Fe<sub>2</sub>O<sub>3</sub>&nbsp;can be increased by taking any one of the reactants (iron or oxygen) in excess</p>
+                        <p>4. Amount of&nbsp;Fe<sub>2</sub>O<sub>3</sub>&nbsp;produced will decrease if the amount of any one of the reactants (iron or oxygen) is taken in excess</p></span></div>
+
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->1
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>10.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246MjI4MDEz"><p>Which of the following reactions is not correct according to the law of conservation of mass?</p>
+
+                        <p>1.&nbsp;<span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-133-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math class=&quot;wrs_chemistry&quot; xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>2</mn><mi>Mg</mi><mo>(</mo><mi mathvariant=&quot;normal&quot;>s</mi><mo>)</mo><mo>+</mo><msub><mi mathvariant=&quot;normal&quot;>O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=&quot;normal&quot;>g</mi><mo>)</mo><mo>&amp;#x2192;</mo><mn>2</mn><mi>MgO</mi><mo>(</mo><mi mathvariant=&quot;normal&quot;>s</mi><mo>)</mo></math>" role="presentation" style="font-size: 119%; position: relative;"><span id="MJXc-Node-1557" class="mjx-math wrs_chemistry" aria-hidden="true"><span id="MJXc-Node-1558" class="mjx-mrow"><span id="MJXc-Node-1559" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span><span id="MJXc-Node-1560" class="mjx-mi MJXc-space1"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.528em;">Mg</span></span><span id="MJXc-Node-1561" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1562" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.37em;">s</span></span><span id="MJXc-Node-1563" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span><span id="MJXc-Node-1564" class="mjx-mo MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.318em; padding-bottom: 0.423em;">+</span></span><span id="MJXc-Node-1565" class="mjx-msub MJXc-space2"><span class="mjx-base"><span id="MJXc-Node-1566" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">O</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1567" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span></span></span><span id="MJXc-Node-1568" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1569" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.528em;">g</span></span><span id="MJXc-Node-1570" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span><span id="MJXc-Node-1571" class="mjx-mo MJXc-space3"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.213em; padding-bottom: 0.37em;">→</span></span><span id="MJXc-Node-1572" class="mjx-mn MJXc-space3"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span><span id="MJXc-Node-1573" class="mjx-mi MJXc-space1"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.528em;">MgO</span></span><span id="MJXc-Node-1574" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1575" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.37em;">s</span></span><span id="MJXc-Node-1576" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math class="wrs_chemistry" xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><mi>Mg</mi><mo>(</mo><mi mathvariant="normal">s</mi><mo>)</mo><mo>+</mo><msub><mi mathvariant="normal">O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>→</mo><mn>2</mn><mi>MgO</mi><mo>(</mo><mi mathvariant="normal">s</mi><mo>)</mo></math></span></span><script type="math/mml" id="MathJax-Element-133"><math class="wrs_chemistry" xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><mi>Mg</mi><mo>(</mo><mi mathvariant="normal">s</mi><mo>)</mo><mo>+</mo><msub><mi mathvariant="normal">O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>→</mo><mn>2</mn><mi>MgO</mi><mo>(</mo><mi mathvariant="normal">s</mi><mo>)</mo></math></script></p>
+                        
+                        <p>2.&nbsp;<span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-134-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math class=&quot;wrs_chemistry&quot; xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi mathvariant=&quot;normal&quot;>C</mi><mn>3</mn></msub><msub><mi mathvariant=&quot;normal&quot;>H</mi><mn>8</mn></msub><mo>(</mo><mi mathvariant=&quot;normal&quot;>g</mi><mo>)</mo><mo>+</mo><msub><mi mathvariant=&quot;normal&quot;>O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=&quot;normal&quot;>g</mi><mo>)</mo><mo>&amp;#x2192;</mo><msub><mi>CO</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=&quot;normal&quot;>g</mi><mo>)</mo><mo>+</mo><msub><mi mathvariant=&quot;normal&quot;>H</mi><mn>2</mn></msub><mi mathvariant=&quot;normal&quot;>O</mi><mo>(</mo><mi mathvariant=&quot;normal&quot;>g</mi><mo>)</mo></math>" role="presentation" style="font-size: 119%; position: relative;"><span id="MJXc-Node-1577" class="mjx-math wrs_chemistry" aria-hidden="true"><span id="MJXc-Node-1578" class="mjx-mrow"><span id="MJXc-Node-1579" class="mjx-msub"><span class="mjx-base"><span id="MJXc-Node-1580" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">C</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1581" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">3</span></span></span></span><span id="MJXc-Node-1582" class="mjx-msub"><span class="mjx-base"><span id="MJXc-Node-1583" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.318em;">H</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1584" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">8</span></span></span></span><span id="MJXc-Node-1585" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1586" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.528em;">g</span></span><span id="MJXc-Node-1587" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span><span id="MJXc-Node-1588" class="mjx-mo MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.318em; padding-bottom: 0.423em;">+</span></span><span id="MJXc-Node-1589" class="mjx-msub MJXc-space2"><span class="mjx-base"><span id="MJXc-Node-1590" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">O</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1591" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span></span></span><span id="MJXc-Node-1592" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1593" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.528em;">g</span></span><span id="MJXc-Node-1594" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span><span id="MJXc-Node-1595" class="mjx-mo MJXc-space3"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.213em; padding-bottom: 0.37em;">→</span></span><span id="MJXc-Node-1596" class="mjx-msub MJXc-space3"><span class="mjx-base"><span id="MJXc-Node-1597" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">CO</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1598" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span></span></span><span id="MJXc-Node-1599" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1600" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.528em;">g</span></span><span id="MJXc-Node-1601" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span><span id="MJXc-Node-1602" class="mjx-mo MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.318em; padding-bottom: 0.423em;">+</span></span><span id="MJXc-Node-1603" class="mjx-msub MJXc-space2"><span class="mjx-base"><span id="MJXc-Node-1604" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.318em;">H</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1605" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span></span></span><span id="MJXc-Node-1606" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">O</span></span><span id="MJXc-Node-1607" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1608" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.528em;">g</span></span><span id="MJXc-Node-1609" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math class="wrs_chemistry" xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">C</mi><mn>3</mn></msub><msub><mi mathvariant="normal">H</mi><mn>8</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>+</mo><msub><mi mathvariant="normal">O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>→</mo><msub><mi>CO</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>+</mo><msub><mi mathvariant="normal">H</mi><mn>2</mn></msub><mi mathvariant="normal">O</mi><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo></math></span></span><script type="math/mml" id="MathJax-Element-134"><math class="wrs_chemistry" xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">C</mi><mn>3</mn></msub><msub><mi mathvariant="normal">H</mi><mn>8</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>+</mo><msub><mi mathvariant="normal">O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>→</mo><msub><mi>CO</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>+</mo><msub><mi mathvariant="normal">H</mi><mn>2</mn></msub><mi mathvariant="normal">O</mi><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo></math></script></p>
+                        
+                        <p>3.&nbsp;<span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-135-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math class=&quot;wrs_chemistry&quot; xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi mathvariant=&quot;normal&quot;>P</mi><mn>4</mn></msub><mo>(</mo><mi mathvariant=&quot;normal&quot;>s</mi><mo>)</mo><mo>+</mo><mn>5</mn><msub><mi mathvariant=&quot;normal&quot;>O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=&quot;normal&quot;>g</mi><mo>)</mo><mo>&amp;#x2192;</mo><msub><mi mathvariant=&quot;normal&quot;>P</mi><mn>4</mn></msub><msub><mi mathvariant=&quot;normal&quot;>O</mi><mn>10</mn></msub><mo>(</mo><mi mathvariant=&quot;normal&quot;>s</mi><mo>)</mo></math>" role="presentation" style="font-size: 119%; position: relative;"><span id="MJXc-Node-1610" class="mjx-math wrs_chemistry" aria-hidden="true"><span id="MJXc-Node-1611" class="mjx-mrow"><span id="MJXc-Node-1612" class="mjx-msub"><span class="mjx-base"><span id="MJXc-Node-1613" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.318em;">P</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1614" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">4</span></span></span></span><span id="MJXc-Node-1615" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1616" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.37em;">s</span></span><span id="MJXc-Node-1617" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span><span id="MJXc-Node-1618" class="mjx-mo MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.318em; padding-bottom: 0.423em;">+</span></span><span id="MJXc-Node-1619" class="mjx-mn MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">5</span></span><span id="MJXc-Node-1620" class="mjx-msub"><span class="mjx-base"><span id="MJXc-Node-1621" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">O</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1622" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span></span></span><span id="MJXc-Node-1623" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1624" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.528em;">g</span></span><span id="MJXc-Node-1625" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span><span id="MJXc-Node-1626" class="mjx-mo MJXc-space3"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.213em; padding-bottom: 0.37em;">→</span></span><span id="MJXc-Node-1627" class="mjx-msub MJXc-space3"><span class="mjx-base"><span id="MJXc-Node-1628" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.318em;">P</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1629" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">4</span></span></span></span><span id="MJXc-Node-1630" class="mjx-msub"><span class="mjx-base"><span id="MJXc-Node-1631" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">O</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1632" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">10</span></span></span></span><span id="MJXc-Node-1633" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1634" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.37em;">s</span></span><span id="MJXc-Node-1635" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math class="wrs_chemistry" xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">P</mi><mn>4</mn></msub><mo>(</mo><mi mathvariant="normal">s</mi><mo>)</mo><mo>+</mo><mn>5</mn><msub><mi mathvariant="normal">O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>→</mo><msub><mi mathvariant="normal">P</mi><mn>4</mn></msub><msub><mi mathvariant="normal">O</mi><mn>10</mn></msub><mo>(</mo><mi mathvariant="normal">s</mi><mo>)</mo></math></span></span><script type="math/mml" id="MathJax-Element-135"><math class="wrs_chemistry" xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">P</mi><mn>4</mn></msub><mo>(</mo><mi mathvariant="normal">s</mi><mo>)</mo><mo>+</mo><mn>5</mn><msub><mi mathvariant="normal">O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>→</mo><msub><mi mathvariant="normal">P</mi><mn>4</mn></msub><msub><mi mathvariant="normal">O</mi><mn>10</mn></msub><mo>(</mo><mi mathvariant="normal">s</mi><mo>)</mo></math></script></p>
+                        
+                        <p>4.&nbsp;&nbsp;<span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-136-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math class=&quot;wrs_chemistry&quot; xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi>CH</mi><mn>4</mn></msub><mo>(</mo><mi mathvariant=&quot;normal&quot;>g</mi><mo>)</mo><mo>+</mo><mn>2</mn><msub><mi mathvariant=&quot;normal&quot;>O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=&quot;normal&quot;>g</mi><mo>)</mo><mo>&amp;#x2192;</mo><msub><mi>CO</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=&quot;normal&quot;>g</mi><mo>)</mo><mo>+</mo><mn>2</mn><msub><mi mathvariant=&quot;normal&quot;>H</mi><mn>2</mn></msub><mi mathvariant=&quot;normal&quot;>O</mi><mo>(</mo><mi mathvariant=&quot;normal&quot;>g</mi><mo>)</mo></math>" role="presentation" style="font-size: 119%; position: relative;"><span id="MJXc-Node-1636" class="mjx-math wrs_chemistry" aria-hidden="true"><span id="MJXc-Node-1637" class="mjx-mrow"><span id="MJXc-Node-1638" class="mjx-msub"><span class="mjx-base"><span id="MJXc-Node-1639" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">CH</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1640" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">4</span></span></span></span><span id="MJXc-Node-1641" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1642" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.528em;">g</span></span><span id="MJXc-Node-1643" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span><span id="MJXc-Node-1644" class="mjx-mo MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.318em; padding-bottom: 0.423em;">+</span></span><span id="MJXc-Node-1645" class="mjx-mn MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span><span id="MJXc-Node-1646" class="mjx-msub"><span class="mjx-base"><span id="MJXc-Node-1647" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">O</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1648" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span></span></span><span id="MJXc-Node-1649" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1650" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.528em;">g</span></span><span id="MJXc-Node-1651" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span><span id="MJXc-Node-1652" class="mjx-mo MJXc-space3"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.213em; padding-bottom: 0.37em;">→</span></span><span id="MJXc-Node-1653" class="mjx-msub MJXc-space3"><span class="mjx-base"><span id="MJXc-Node-1654" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">CO</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1655" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span></span></span><span id="MJXc-Node-1656" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1657" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.528em;">g</span></span><span id="MJXc-Node-1658" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span><span id="MJXc-Node-1659" class="mjx-mo MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.318em; padding-bottom: 0.423em;">+</span></span><span id="MJXc-Node-1660" class="mjx-mn MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span><span id="MJXc-Node-1661" class="mjx-msub"><span class="mjx-base"><span id="MJXc-Node-1662" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.318em;">H</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-1663" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span></span></span><span id="MJXc-Node-1664" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">O</span></span><span id="MJXc-Node-1665" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">(</span></span><span id="MJXc-Node-1666" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.16em; padding-bottom: 0.528em;">g</span></span><span id="MJXc-Node-1667" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.475em; padding-bottom: 0.58em;">)</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math class="wrs_chemistry" xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>CH</mi><mn>4</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>+</mo><mn>2</mn><msub><mi mathvariant="normal">O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>→</mo><msub><mi>CO</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>+</mo><mn>2</mn><msub><mi mathvariant="normal">H</mi><mn>2</mn></msub><mi mathvariant="normal">O</mi><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo></math></span></span><script type="math/mml" id="MathJax-Element-136"><math class="wrs_chemistry" xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>CH</mi><mn>4</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>+</mo><mn>2</mn><msub><mi mathvariant="normal">O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>→</mo><msub><mi>CO</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo><mo>+</mo><mn>2</mn><msub><mi mathvariant="normal">H</mi><mn>2</mn></msub><mi mathvariant="normal">O</mi><mo>(</mo><mi mathvariant="normal">g</mi><mo>)</mo></math></script></p>
+                        </span></div>
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->2
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>11.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246MjI4MDE0"><p>Which of the following statement indicates that the law of multiple proportions is being followed?</p>
+
+                        <p>1. A sample of carbon dioxide taken from any source will always have carbon and oxygen in the ratio of 1:2.</p>
+                        
+                        <p>2. Carbon forms two oxides namely, CO<sub>2</sub>&nbsp;and CO, where masses of oxygen that combine with a fixed mass of carbon are in the simple ratio of 2:1.</p>
+                        
+                        <p>3. When magnesium burns in oxygen, the amount of magnesium used for the reaction is equal to the amount of magnesium&nbsp; formed in magnesium oxide.</p>
+                        
+                        <p>4. At constant temperature and pressure, 200 mL of hydrogen will combine with 100 mL of oxygen to produce 200 mL of water vapour.</p>
+                        </span></div>
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->2
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>12.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246MTU4MDM2"><p>Assertion: 1 g&nbsp;<span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-183-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi mathvariant=&quot;normal&quot;>O</mi><mn>2</mn></msub></math>" role="presentation" style="font-size: 119%; position: relative;"><span id="MJXc-Node-2159" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-2160" class="mjx-mrow"><span id="MJXc-Node-2161" class="mjx-msub"><span class="mjx-base"><span id="MJXc-Node-2162" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">O</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-2163" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span></span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">O</mi><mn>2</mn></msub></math></span></span><script type="math/mml" id="MathJax-Element-183"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">O</mi><mn>2</mn></msub></math></script>&nbsp;and 1 g&nbsp;<span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-184-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi mathvariant=&quot;normal&quot;>O</mi><mn>3</mn></msub></math>" role="presentation" style="font-size: 119%; position: relative;"><span id="MJXc-Node-2164" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-2165" class="mjx-mrow"><span id="MJXc-Node-2166" class="mjx-msub"><span class="mjx-base"><span id="MJXc-Node-2167" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">O</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-2168" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">3</span></span></span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">O</mi><mn>3</mn></msub></math></span></span><script type="math/mml" id="MathJax-Element-184"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">O</mi><mn>3</mn></msub></math></script>&nbsp;have an equal number of oxygen atoms.</p>
+
+<p>Reason:&nbsp;<span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-185-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi mathvariant=&quot;normal&quot;>O</mi><mn>2</mn></msub></math>" role="presentation" style="font-size: 119%; position: relative;"><span id="MJXc-Node-2169" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-2170" class="mjx-mrow"><span id="MJXc-Node-2171" class="mjx-msub"><span class="mjx-base"><span id="MJXc-Node-2172" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">O</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-2173" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.318em;">2</span></span></span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">O</mi><mn>2</mn></msub></math></span></span><script type="math/mml" id="MathJax-Element-185"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">O</mi><mn>2</mn></msub></math></script>&nbsp;and&nbsp;<span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-186-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi mathvariant=&quot;normal&quot;>O</mi><mn>3</mn></msub></math>" role="presentation" style="font-size: 119%; position: relative;"><span id="MJXc-Node-2174" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-2175" class="mjx-mrow"><span id="MJXc-Node-2176" class="mjx-msub"><span class="mjx-base"><span id="MJXc-Node-2177" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.423em; padding-bottom: 0.37em;">O</span></span></span><span class="mjx-sub" style="font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;"><span id="MJXc-Node-2178" class="mjx-mn" style=""><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.37em; padding-bottom: 0.37em;">3</span></span></span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">O</mi><mn>3</mn></msub></math></span></span><script type="math/mml" id="MathJax-Element-186"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi mathvariant="normal">O</mi><mn>3</mn></msub></math></script>&nbsp;have different molar masses.</p>
+
+<p>1. Both the assertion and the reason are true and the reason is the correct explanation of the assertion.<br>
+2. Both the assertion and the reason are true and the reason is not the correct explanation of the assertion.<br>
+3. The assertion is true but the reason is false.<br>
+4. The assertion is false but the reason is true.</p>
+</span></div>
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->2
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>13.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246OTY0NTc="><p>Read the following statements (S) and Explanation (E). Choose the correct answers from the codes (1), (2), (3) and (4):</p>
+                        <p>S : An element may have variable equivalent mass.</p>
+                        <p>E : Such elements should possess variable valency.&nbsp;</p>
+                        <p>1.&nbsp; S is correct but E is wrong<br>2.&nbsp; S is wrong but E is correct<br>3.&nbsp; Both S and E are correct and E is correct explanation of S<br>4.&nbsp; Both S and E are correct but E is not correct explanation of S</p></span></div>
+
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->3
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>14.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246MjcxOTk="><p>Rearrange the following (I to IV) in the order of increasing masses and choose answer from (1), (2), (3) and (4) (Atomic mass : N=14, O=16 Cu = 63)</p>
+                        <p>I. 1 molecule of oxygen</p>
+                        <p>II. 1 atom of nitrogen</p>
+                        <p>III. 1 x 10<sup>-10</sup>g molecule-weight of oxygen</p>
+                        <p>IV. 1 x 10<sup>-10</sup>g atom-weight of copper</p>
+                        <p>1. II &lt; I &lt; III &lt; IV</p>
+                        <p>2.&nbsp;IV &lt; III &lt; II &lt; I</p>
+                        <p>3.&nbsp;II &lt; III &lt; I &lt; IV</p>
+                        <p>4.&nbsp;III &lt; IV &lt; I &lt; II</p></span></div>
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->1
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+        <table width="100%">
+            <tbody>
+               <tr class="question">
+                  <td width="8%" align="center" valign="top"><b>15.</b></td>
+                  <td width="92%">
+                      <!--Paste Your Question Here-->
+                      <div class="question-text"><span class="-PmH" id="questionUXVlc3Rpb246OTU5MjI="><p>Rearrange the following (I to IV) in the order of increasing masses:</p>
+                        <p>(I)&nbsp; &nbsp;0.5 mole of O<sub>3</sub><br>(II)&nbsp; 0.5 gm atom of oxygen<br>(III) 3.011<span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-483-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" data-mathml="<math class=&quot;wrs_chemistry&quot; xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>&amp;#xD7;</mo></math>" role="presentation" style="font-size: 119%; position: relative;"><span id="MJXc-Node-5040" class="mjx-math wrs_chemistry" aria-hidden="true"><span id="MJXc-Node-5041" class="mjx-mrow"><span id="MJXc-Node-5042" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.213em; padding-bottom: 0.318em;">×</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math class="wrs_chemistry" xmlns="http://www.w3.org/1998/Math/MathML"><mo>×</mo></math></span></span><script type="math/mml" id="MathJax-Element-483"><math xmlns="http://www.w3.org/1998/Math/MathML" class="wrs_chemistry"><mo>×</mo></math></script>10<sup>23</sup> molecules of&nbsp;O<sub>2<br></sub>(IV)&nbsp; 5.6 liter of CO<sub>2</sub> at STP</p>
+                        <p>1.&nbsp; II&lt;IV&lt;III&lt;I</p>
+                        <p>2.&nbsp; II&lt;I&lt;IV&lt;III</p>
+                        <p>3.&nbsp; IV&lt;II&lt;III&lt;I</p>
+                        <p>4.&nbsp; I&lt;II&lt;III&lt;IV</p></span></div>
+
+                   </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%" align="center" valign="top" ><b>Ans.</b></td>
+                  <td width="92%">
+                     <!--Answer Key-->1
+
+                  </td>
+               </tr>
+               <tr class="hide">
+                  <td width="8%"  align="center" valign="top"><b>Sol.</b></td>
+                  <td width="92%">
+                      <!---Paste Your Explanation Here-->
+
+                  </td>
+               </tr>
+            </tbody>
+        </table><br>
+      
+   
+
+
+    
+
+          
+
+    </div>
+</div>
+</body>
+</html>
